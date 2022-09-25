@@ -5,6 +5,5 @@ LA DOCUMENTACION COMPLETA SE ENCUENTRA EN LA CARPETA DOC.
 
 Rivers Emmanuel Morales.   
 
-La siguiente APi  se desarrolla con el fin de realizar una reservación  en la cual integre 
-Una lista de requisitos (modelos) para efectuar una reservvacion de hotel. 
+La siguiente APi  se desarrolla con el fin de realizar una reservación  en la cual integre  Una lista de modelos o requisitos.
 
